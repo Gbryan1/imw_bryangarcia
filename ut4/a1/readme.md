@@ -1,6 +1,6 @@
 <center>
 
-# TÍTULO DE LA PRÁCTICA
+# Implantación de Wordpress
 
 
 </center>
